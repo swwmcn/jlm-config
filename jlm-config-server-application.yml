@@ -6,10 +6,10 @@ server:
 spring:
   profiles: dev
   application:
-    name: jlm-config-dev
+         name: jlm-config-dev
 server:
   port: 4002
 spring:
   profiles: prod
   application:
-    name: jlm-config-prod
+         name: jlm-config-prod
